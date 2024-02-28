@@ -1,4 +1,5 @@
 # React + Vite
-first project - Background changer by clicking button.
+This is a simple React project built with Vite, 
+allowing you to change the background color by clicking a button.
 
 
